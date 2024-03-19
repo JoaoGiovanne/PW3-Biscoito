@@ -1,0 +1,19 @@
+.img {
+  width: 230px;
+ height: 230px;
+}
+.container{
+  width: 30%;
+  height: 300px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+}
+
+.grand
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

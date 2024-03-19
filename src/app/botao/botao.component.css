@@ -1,0 +1,16 @@
+.botao, .secundario {
+  width: 230px;
+  height: 50px;
+  border: 2px solid #dd7b22;
+  border-radius: 25px;
+  margin-top: 15px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  color: #dd7b22;
+  background-color: #ffffff;
+  }
+  .secundario {
+  border-color: #121212;
+  color: #121212;
+  }
