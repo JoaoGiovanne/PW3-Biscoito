@@ -22,5 +22,7 @@ export class FraseComponent {
   @Input() min: number = 0;
   @Input() max: number = 9;
 
+
+  
   valor = Math.floor(Math.random() * (this.max - this.min + 1)) + this.min;
 }
